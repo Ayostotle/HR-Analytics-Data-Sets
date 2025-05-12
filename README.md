@@ -64,12 +64,20 @@ Here are 10 key questions this Power BI project aims to answer:
   Include some interesting code/features worked with
    - Using Dax functions
   - Navigation the power query ribbon
+  - Calculating New Measure and Column.
+  - Using custom column and column by examples
+  - Using aggregation functions
+  - Adding slicers and clear slicer button
 
 
   ### Results/Findings
   
-The analysis of results are summarized as follows:
-The HR Analytic Dashboard provides key insights into the workforce. The average salary is $66K for 991 active employees with an average age of 53. The gender distribution is 668 males (56%) and 865 females (44%), totaling 1,533 employees. The total cost of training is $2M, and there were 1,997 total applications. Analysis includes exit trends by department, average employee contract types, application status, training outcomes ($1.67M total cost), and employee distribution across states and departments.
+- The analysis of results are summarized as follows:
+- The HR Analytic Dashboard provides key insights into the workforce. 
+- The average salary is $66K for 991 active employees with an average age of 53. 
+- The gender distribution is 668 males (56%) and 865 females (44%), totaling 1,533 employees. 
+- The total cost of training is $2M, and there were 1,997 total applications. 
+- Analysis includes exit trends by department, average employee contract types, application status, training outcomes ($1.67M total cost), and employee distribution across states and departments.
 
  ### Recommendation
 
@@ -78,6 +86,6 @@ Based on the HR data, investigate gender distribution in applications and analys
 Evaluate training cost-effectiveness across different outcomes. Further explore employee distribution within specific departments for better resource allocation and workforce planning.
 
 ### Limitation
-A key limitation is the sorting of month in ascending order in the dataset to avoid distortion in analysis and accuracy. This may lead to misleading in trends and in accurate time base analysis in reports and visualizations.
+The dashboard relies solely on quantitative metrics, excluding employee feedback or turnover reasons, and its geographic mapping uses high-level data that may not reflect relocations or cross-department structures accurately.
 
 
