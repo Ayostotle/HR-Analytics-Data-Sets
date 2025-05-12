@@ -26,7 +26,7 @@ Employee Data: The data source is "Text CVS" containing detailed records of empl
 ### Tools
 
 - Excel
-- [Download here] (https://drive.google.com/file/d/1NmWIPWQbNSl76H7AOyzHrS_dlo6o1gWx/view?usp=drivesdk)
+- [Download here](https://drive.google.com/file/d/1NmWIPWQbNSl76H7AOyzHrS_dlo6o1gWx/view?usp=drivesdk)
 - Power Query - data cleaning and merging
 - Creating new column for calculations
 - Power BI - Creating reports
